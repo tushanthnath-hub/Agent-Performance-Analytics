@@ -1,7 +1,4 @@
-# Agent_Performance_Analytics
-
-
-# 🤖 AI Agent Performance Analytics & Behavior Prediction
+# Agent Performance Analytics & Behavior Prediction
 
 An end-to-end machine learning project for analyzing AI agent behavior, predicting task success, and discovering behavioral patterns using classification and clustering.
 

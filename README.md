@@ -158,27 +158,6 @@ Users can enter:
 and receive a predicted outcome.
 
 ---
-
-## 🔮 Future Improvements
-
-Potential improvements include:
-
-* [ ] Add XGBoost/Gradient Boosting
-* [ ] Add ROC-AUC visualization
-* [ ] Add confusion matrix visualization
-* [ ] Add model feature importance
-* [ ] Add cross-validation
-* [ ] Improve K-Means cluster interpretation
-* [ ] Add automated model comparison
-* [ ] Add experiment tracking
-* [ ] Add unit tests
-* [ ] Add Docker support
-* [ ] Deploy the Streamlit dashboard
-* [ ] Replace synthetic data with real agent evaluation data
-
----
-
-
 ## 🎯 Learning Objectives
 
 This project demonstrates practical experience with:

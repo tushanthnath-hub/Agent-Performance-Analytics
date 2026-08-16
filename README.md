@@ -1,4 +1,4 @@
-# Agent Performance Analytics & Behavior Prediction
+## Agent Performance Analytics & Behavior Prediction
 
 An end-to-end machine learning project for analyzing AI agent behavior, predicting task success, and discovering behavioral patterns using classification and clustering.
 
@@ -171,4 +171,15 @@ This project demonstrates practical experience with:
 * Model persistence
 * Streamlit application development
 * Basic ML project organization
+
+
+
+https://github.com/user-attachments/assets/d2f0cf68-0b34-44d5-8b46-4926f8c8e19a
+
+
+
+
+
+
+
 

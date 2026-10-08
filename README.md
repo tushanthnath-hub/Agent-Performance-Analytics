@@ -1,6 +1,6 @@
 ## Agent Performance Analytics & Behavior Prediction
 
-An end-to-end machine learning project for analyzing AI agent behavior, predicting task success, and discovering behavioral patterns using classification and clustering.
+An end-to-end machine learning project for analyzing AI agent behavior, predicting task success, and discovering behavioral patterns using classification and clustering
 
 The project generates synthetic agent interaction data, preprocesses the data, trains multiple machine learning models, performs behavior clustering, and provides an interactive Streamlit dashboard for visualization and prediction.
 
